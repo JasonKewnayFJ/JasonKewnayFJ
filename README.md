@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JasonKewnayFJ
 - 👀 I’m interested in programmin, duh
-- 🌱 I’m currently learning html, css, js, c++
+- 🌱 I’m currently learning С#
 - 💞️ I’m looking to collaborate on developing a game
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like femboys
